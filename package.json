@@ -1,0 +1,7 @@
+{
+  "name": "slack-daily-bot",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
