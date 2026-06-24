@@ -6,7 +6,7 @@ export default async function handler(req, res) {
         "Content-Type": "application/json"
       },
       body: JSON.stringify({
-        text: "👋 Daily reminder from Vercel Cron"
+        text: "🔔 Daily Report Reminder"
       })
     });
 

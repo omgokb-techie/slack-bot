@@ -2,7 +2,7 @@
   "crons": [
     {
       "path": "/api/slack",
-      "schedule": "* * * * *"
+      "schedule": "20 15 * * *"
     }
   ]
 }
